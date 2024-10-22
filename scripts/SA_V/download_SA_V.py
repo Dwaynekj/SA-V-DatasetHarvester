@@ -1,5 +1,5 @@
 # Automatically download the SA-V dataset
-# by Stéphane Vujasinovic
+# by Stéphane Vujasinovic, Dwayne Jones
 
 
 # - IMPORTS ---
